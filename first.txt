@@ -2,4 +2,4 @@
 
 
 
-마스터 first1
+local - first1
