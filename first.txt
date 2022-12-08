@@ -1,2 +1,2 @@
 
-local newb1 편집
+local에서 병합1
