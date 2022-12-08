@@ -1,2 +1,2 @@
 
-newb1 _first파일
+local에서 수정했다
